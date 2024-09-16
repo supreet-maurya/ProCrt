@@ -1,5 +1,5 @@
 import axios from "axios";
-const URL = 'http://localhost:8000';
+const URL = 'https://procrt.onrender.com';
 
 
 async function postData(url , data) {
