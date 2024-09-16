@@ -1,4 +1,4 @@
-import logo from './Ajio-Logo.svg';
+import logo from './new_logo.jpg';
 import loginLogo from './login.svg'
 import cartSvg from './cart.svg'
 import sellerSvg from './seller.svg'
